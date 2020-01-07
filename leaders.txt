@@ -1,0 +1,5 @@
+Bill,50
+Sally,75
+Joe,20
+Jeremiah,0
+Amber,100 
